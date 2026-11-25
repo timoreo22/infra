@@ -15,7 +15,7 @@
     agenix.url = "github:ryantm/agenix";
     blockgame-meta.inputs.flake-parts.follows = "flake-parts";
     blockgame-meta.inputs.nixpkgs.follows = "nixpkgs";
-    blockgame-meta.url = "github:PrismLauncher/meta";
+    blockgame-meta.url = "github:Trial97/prism_refraction/infa_update";
     comin.inputs.nixpkgs.follows = "nixpkgs";
     comin.url = "github:nlewo/comin";
     disko.inputs.nixpkgs.follows = "nixpkgs";
